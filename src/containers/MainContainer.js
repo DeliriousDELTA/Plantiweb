@@ -16,7 +16,7 @@ const MainContainer = () => {
 
                 <footer className="mastfoot mt-auto">
                     <div className="inner">
-                        <p>Cover template for <a href="https://getbootstrap.com/">Bootstrap</a>,      <a href="https://twitter.com/mdo">@PlantiWeb</a>.</p>
+                        <p><a href="https://twitter.com/mdo">@PlantiWeb</a>.</p>
                     </div>
                 </footer>
             </div>
