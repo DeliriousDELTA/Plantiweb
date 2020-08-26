@@ -1,0 +1,49 @@
+.jumbotron {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-bottom: 0;
+    background-color: transparent;
+    
+  }
+  @media (min-width: 768px) {
+    .jumbotron {
+      padding-top: 6rem;
+      padding-bottom: 2rem;
+    }
+  }
+  
+  .jumbotron p:last-child {
+    margin-bottom: 0;
+  }
+  
+  .jumbotron h1 {
+    font-weight: 400;
+  }
+  
+  .jumbotron .container {
+    padding-top: 3rem;
+    max-width: 40rem;
+  }
+  
+  footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  
+  footer p {
+    margin-bottom: .25rem;
+  }
+  .lead{
+    font-size: 1.4rem;
+    font-weight: 100;
+      color: rgba(255, 255, 255, 0.801);
+  } 
+  .main{
+      background-color: rgba(0, 0, 0, 0.438);
+  }
+  .album{
+    background-image: url('https://images.wallpaperscraft.com/image/leaves_plant_green_136320_3840x2160.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
