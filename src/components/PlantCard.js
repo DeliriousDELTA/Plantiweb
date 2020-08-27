@@ -9,7 +9,7 @@ const PlantCard = () => {
                 <div className="card-body">
                     <h5 className="card-title">Nombre Planta</h5>
                     <p className="card-text">Descripción</p>
-                    <a href="#" className="btn btn-primary">Go somewhere</a>
+                    <a href="/shop" className="btn btn-primary">Comprar</a>
                 </div>
             </div>
         </div>

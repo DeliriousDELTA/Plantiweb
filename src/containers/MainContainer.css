@@ -29,7 +29,7 @@ body {
 body {
   display: -ms-flexbox;
   display: flex;
-  background-image: url('https://hdwallpaperim.com/wp-content/uploads/2017/08/25/456504-leaves-green-nature-philodendron.jpg');
+  background-image: url('../images/mainPage.jpg');
   background-size: cover;
     background-repeat: no-repeat;
     background-attachment: scroll;
