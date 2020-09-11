@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import ShopCard from '../components/ShopCard';
 import './Shop Container.css'
 import NavBar from '../components/NavBar';
+import Footer from '../components/Footer';
 
 const ShopContainer = () => {
     return (
@@ -11,7 +12,7 @@ const ShopContainer = () => {
             <main role="main" className="main w-100  flex-column" >
                 <section className="jumbotron w-100 h-20">
                 <div className="container">
-                    <h1>Cuidado de las Plantas</h1>
+                    <h1>Checa a tu nuevo miembro de la familia</h1>
                 </div>
                 </section>
 
@@ -28,7 +29,7 @@ const ShopContainer = () => {
                     </div>
                 </div>
             </main>
-
+            <Footer/>
         </React.Fragment>
     )
 }

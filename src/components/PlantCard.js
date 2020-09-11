@@ -8,7 +8,7 @@ export const PlantCard = (props) => {
         price = 0,
         type= "Type default",
         description = "Esse cupidatat cupidatat magna eiusmod voluptate veniam cillum.",
-        image,
+        image="https://www.elmueble.com/medio/2019/10/15/maceta-blanca-con-base-de-madera-de-la-redoute_82355f1a_1200x1200.jpg",
         size= "Default",
         stock= 0,
         careLevel= "Default",
