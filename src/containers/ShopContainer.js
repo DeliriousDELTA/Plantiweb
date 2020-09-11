@@ -1,14 +1,18 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Header from '../components/Header';
 import ShopCard from '../components/ShopCard';
+import './Shop Container.css'
+import NavBar from '../components/NavBar';
 
 const ShopContainer = () => {
     return (
         <React.Fragment>
+            <NavBar/>
             <main role="main" className="main w-100  flex-column" >
-                <section>
-                    <Header />
+                <section className="jumbotron w-100 h-20">
+                <div className="container">
+                    <h1>Cuidado de las Plantas</h1>
+                </div>
                 </section>
 
                 <div className="album py-5 ">

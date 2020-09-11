@@ -8,7 +8,6 @@ import ShopContainer from './containers/ShopContainer';
 function App() {
   return (
       <BrowserRouter>
-          <NavBar />
         <Switch>
           <Route exact path ="/" component={MainContainer}></Route>
           <Route exact path ="/plantas" component={PlantasContainer}></Route>

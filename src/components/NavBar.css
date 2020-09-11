@@ -44,5 +44,10 @@
       float: right;
     }
   }
+  @tailwind base;
+
+  @tailwind components;
+  
+  @tailwind utilities;
   
   

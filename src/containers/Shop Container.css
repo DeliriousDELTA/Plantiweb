@@ -1,0 +1,10 @@
+.jumbotron
+{
+    color: whitesmoke;
+    background-image: url(..//images/mainPage.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+
+}
